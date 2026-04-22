@@ -1,5 +1,6 @@
 # MySQL Index Practice
 
+- [chapter5](./chapter5/README.md)
 - [chapter7](./chapter7/README.md)
 
 ## 🙏 Acknowledgements
